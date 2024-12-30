@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a8f35ac52bd63f4e86e13eb1a86c7ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brain: {instanceID: 0}
+  - textMesh: {instanceID: 0}
+  - captureButton: {instanceID: 0}
+  - clearButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
